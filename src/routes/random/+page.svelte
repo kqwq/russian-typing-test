@@ -60,9 +60,7 @@
 	 */
 	function update(event: MouseEvent) {
 		event.preventDefault();
-		const key = (event.target as HTMLButtonElement).getAttribute(
-			'data-key'
-		);
+		const key = (event.target as HTMLButtonElement).getAttribute('data-key');
 
 		if (key === 'backspace') {
 			currentGuess = currentGuess.slice(0, -1);
@@ -81,9 +79,7 @@
 
 		if (event.key === 'Enter' && !submittable) return;
 
-		document
-			.querySelector(`[data-key="${event.key}" i]`)
-			?.dispatchEvent(new MouseEvent('click', { cancelable: true }));
+		document.querySelector(`[data-key="${event.key}" i]`)?.dispatchEvent(new MouseEvent('click', { cancelable: true }));
 	}
 </script>
 
@@ -153,15 +149,7 @@
 			<div class="keyboard">
 				<button data-key="enter" class:selected={submittable} disabled={!submittable}>enter</button>
 
-				<button
-					onclick={update}
-					data-key="backspace"
-					formaction="?/update"
-					name="key"
-					value="backspace"
-				>
-					back
-				</button>
+				<button onclick={update} data-key="backspace" formaction="?/update" name="key" value="backspace"> back </button>
 
 				{#each ['qwertyuiop', 'asdfghjkl', 'zxcvbnm'] as row}
 					<div class="row">

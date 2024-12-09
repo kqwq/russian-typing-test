@@ -31,8 +31,4 @@
 	ol li[aria-current='page'] {
 		font-weight: bold;
 	}
-
-
-
-
 </style>
