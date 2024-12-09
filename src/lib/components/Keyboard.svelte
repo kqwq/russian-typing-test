@@ -4,6 +4,7 @@
     
 </script>
 
+<div class="container">
 <div class="keyboard">
     <div class="row">
         <div class="key">Ё</div>
@@ -67,8 +68,14 @@
         <div class="key w-3 text-sm">Shift</div>
     </div>
 </div>
+</div>
 
 <style>
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     .keyboard {
         display: flex;
         flex-direction: column;
@@ -78,9 +85,7 @@
         display: flex;
         gap: 0.2rem;
         justify-content: space-between;
-        width: 90%;
     }
-
     .key {
         display: flex;
         justify-content: center;
@@ -91,25 +96,24 @@
         border-radius: 0.25rem;
         /* margin-right: 0.2rem; */
     }
-
     .w-1_5 {
         width: 3rem;
     }
-
     .w-2 {
         width: 4rem;
     }
-
     .w-2_5 {
         width: 5rem;
     }
-
     .w-3 {
         width: 6rem;
     }
-
     .text-sm {
         font-size: 0.75rem;
         text-align: center;
+    }
+    :global(.highlighted) {
+        background-color: rgb(0, 68, 255);
+        color: white;
     }
 </style>
