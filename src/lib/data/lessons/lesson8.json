@@ -1,0 +1,624 @@
+{
+  "title": "Lesson 8: УШ",
+  "alphabet": "уш",
+  "words": [
+    {
+      "word": "рука",
+      "def": "hand; arm",
+      "ex": "моя рука|my hand/arm",
+      "gt": "hand"
+    },
+    {
+      "word": "ваш",
+      "def": "your",
+      "ex": "Дом ваш|The house is yours",
+      "gt": "your"
+    },
+    {
+      "word": "друг",
+      "def": "friend",
+      "ex": "Мы с другом были в Москве|My friend and I were in Moscow",
+      "gt": "Friend"
+    },
+    {
+      "word": "вдруг",
+      "def": "suddenly",
+      "ex": "Вдруг он спросил о Сталине|Suddenly he asked about Stalin",
+      "gt": "suddenly"
+    },
+    {
+      "word": "куда",
+      "def": "where (whither)",
+      "ex": "Куда они пошли?|Where have they gone?",
+      "gt": "Where"
+    },
+    {
+      "word": "урок",
+      "def": "lesson",
+      "ex": "уроки русского языка|Russian lessons",
+      "gt": "lesson"
+    },
+    {
+      "word": "группа",
+      "def": "group",
+      "ex": "Они вернулись группами|They returned in groups",
+      "gt": "group"
+    },
+    {
+      "word": "вокруг",
+      "def": "around",
+      "ex": "вокруг света|around the world",
+      "gt": "around"
+    },
+    {
+      "word": "душа",
+      "def": "soul",
+      "ex": "русская душа; от всей Души|Russian soul; with all one’s heart",
+      "gt": "soul"
+    },
+    {
+      "word": "угол",
+      "def": "corner",
+      "ex": "Он стоит на углу|He is standing at the corner",
+      "gt": "corner"
+    },
+    {
+      "word": "кружок",
+      "def": "circle, club",
+      "ex": "член литературного кружка|member of a literary group",
+      "gt": "circle"
+    },
+    {
+      "word": "школа",
+      "def": "school",
+      "ex": "средняя школа|secondary school",
+      "gt": "school"
+    },
+    {
+      "word": "уж",
+      "def": "already; really",
+      "ex": "не так уж много|not so very many",
+      "gt": "really"
+    },
+    {
+      "word": "друга",
+      "def": "each other",
+      "ex": "помогать друг другу|to help each other",
+      "gt": "friend"
+    },
+    {
+      "word": "шаг",
+      "def": "step",
+      "ex": "сделать шаг вперёд|to take a step forward",
+      "gt": "step"
+    },
+    {
+      "word": "круг",
+      "def": "circle",
+      "ex": "pr sg в кругу, nom pl круги",
+      "gt": "circle"
+    },
+    {
+      "word": "кулак",
+      "def": "fist; kulak (rich peasant)",
+      "ex": "g sg кулака",
+      "gt": "fist"
+    },
+    {
+      "word": "дурак",
+      "def": "fool",
+      "ex": "g sg дурака",
+      "gt": "fool"
+    },
+    {
+      "word": "удар",
+      "def": "blow, strike",
+      "ex": "",
+      "gt": "hit"
+    },
+    {
+      "word": "крыша",
+      "def": "roof",
+      "ex": "",
+      "gt": "roof"
+    },
+    {
+      "word": "шар",
+      "def": "sphere",
+      "ex": "nom pl шары; земной шар the globe",
+      "gt": "ball"
+    },
+    {
+      "word": "рукав",
+      "def": "sleeve",
+      "ex": "g sg рукава, nom pl рукава",
+      "gt": "sleeve"
+    },
+    {
+      "word": "шапка",
+      "def": "hat (without brim)",
+      "ex": "g pl шапок",
+      "gt": "cap"
+    },
+    {
+      "word": "пушка",
+      "def": "cannon",
+      "ex": "g pl пушек",
+      "gt": "gun"
+    },
+    {
+      "word": "подруга",
+      "def": "(female) friend",
+      "ex": "",
+      "gt": "girlfriend"
+    },
+    {
+      "word": "подушка",
+      "def": "pillow; cushion",
+      "ex": "g pl подушек",
+      "gt": "pillow"
+    },
+    {
+      "word": "гул",
+      "def": "rumble",
+      "ex": "",
+      "gt": "hum"
+    },
+    {
+      "word": "окошко",
+      "def": "small window",
+      "ex": "g pl окошек",
+      "gt": "window"
+    },
+    {
+      "word": "ура",
+      "def": "hurrah, hurray",
+      "ex": "",
+      "gt": "hooray"
+    },
+    {
+      "word": "кукла",
+      "def": "doll",
+      "ex": "g pl кукол",
+      "gt": "doll"
+    },
+    {
+      "word": "луг",
+      "def": "meadow",
+      "ex": "pr sg на лугу, nom pl луга",
+      "gt": "meadow"
+    },
+    {
+      "word": "шкаф",
+      "def": "cupboard",
+      "ex": "pr в/на шкафу",
+      "gt": "closet"
+    },
+    {
+      "word": "кошка",
+      "def": "cat (f)",
+      "ex": "g pl кошек",
+      "gt": "cat"
+    },
+    {
+      "word": "горшок",
+      "def": "pot",
+      "ex": "",
+      "gt": "pot"
+    },
+    {
+      "word": "прокурор",
+      "def": "prosecutor",
+      "ex": "",
+      "gt": "prosecutor"
+    },
+    {
+      "word": "уголок",
+      "def": "corner, nook",
+      "ex": "",
+      "gt": "corner"
+    },
+    {
+      "word": "глупо",
+      "def": "stupidly",
+      "ex": "",
+      "gt": "stupid"
+    },
+    {
+      "word": "крышка",
+      "def": "lid",
+      "ex": "g pl крышек",
+      "gt": "lid"
+    },
+    {
+      "word": "дура",
+      "def": "idiot, stupid woman",
+      "ex": "",
+      "gt": "stupid"
+    },
+    {
+      "word": "папаша",
+      "def": "dad",
+      "ex": "= папа",
+      "gt": "dad"
+    },
+    {
+      "word": "гудок",
+      "def": "hooter, car horn; hooting",
+      "ex": "",
+      "gt": "beep"
+    },
+    {
+      "word": "шкура",
+      "def": "skin, hide",
+      "ex": "",
+      "gt": "skin"
+    },
+    {
+      "word": "каша",
+      "def": "kasha (porridge made of buckwheat, semolina or oatmeal)",
+      "ex": "",
+      "gt": "porridge"
+    },
+    {
+      "word": "ковш",
+      "def": "scoop, ladle",
+      "ex": "g sg ковша",
+      "gt": "ladle"
+    },
+    {
+      "word": "пуд",
+      "def": "pood (16.38 kg)",
+      "ex": "nom pl пуды",
+      "gt": "pood"
+    },
+    {
+      "word": "шашка",
+      "def": "sabre; (pl) draughts, checkers (board game)",
+      "ex": "g pl шашек",
+      "gt": "checker"
+    },
+    {
+      "word": "груша",
+      "def": "pear",
+      "ex": "",
+      "gt": "pear"
+    },
+    {
+      "word": "фуражка",
+      "def": "peaked cap",
+      "ex": "g pl фуражек",
+      "gt": "cap"
+    },
+    {
+      "word": "порошок",
+      "def": "powder",
+      "ex": "",
+      "gt": "powder"
+    },
+    {
+      "word": "купол",
+      "def": "cupola",
+      "ex": "nom pl купола",
+      "gt": "dome"
+    },
+    {
+      "word": "фу",
+      "def": "(expressing disgust) ugh!",
+      "ex": "",
+      "gt": "ugh"
+    },
+    {
+      "word": "дружок",
+      "def": "friend (coll)",
+      "ex": "",
+      "gt": "buddy"
+    },
+    {
+      "word": "покупка",
+      "def": "purchase",
+      "ex": "g pl покупок",
+      "gt": "purchase"
+    },
+    {
+      "word": "грош",
+      "def": "half-kopeck, farthing",
+      "ex": "g sg гроша́; без гроша penniless",
+      "gt": "a penny"
+    },
+    {
+      "word": "ловушка",
+      "def": "trap",
+      "ex": "g pl ловушек",
+      "gt": "trap"
+    },
+    {
+      "word": "радуга",
+      "def": "rainbow",
+      "ex": "",
+      "gt": "rainbow"
+    },
+    {
+      "word": "упор",
+      "def": "prop",
+      "ex": "в упор point-blank; сделать упор на +pr or a to emphasize",
+      "gt": "emphasis"
+    },
+    {
+      "word": "кружка",
+      "def": "mug, tankard",
+      "ex": "g pl кружек",
+      "gt": "mug"
+    },
+    {
+      "word": "лужа",
+      "def": "puddle",
+      "ex": "",
+      "gt": "puddle"
+    },
+    {
+      "word": "увы",
+      "def": "alas!",
+      "ex": "",
+      "gt": "Alas"
+    },
+    {
+      "word": "калоша",
+      "def": "galosh, overshoe",
+      "ex": "",
+      "gt": "galoshes"
+    },
+    {
+      "word": "галоша",
+      "def": "galosh, overshoe",
+      "ex": "",
+      "gt": "galoshes"
+    },
+    {
+      "word": "караул",
+      "def": "guard, watch",
+      "ex": "почётный караул guard of honour",
+      "gt": "guard"
+    },
+    {
+      "word": "лук",
+      "def": "onions",
+      "ex": "no pl",
+      "gt": "onion"
+    },
+    {
+      "word": "опушка",
+      "def": "edge (of a forest)",
+      "ex": "",
+      "gt": "edge"
+    },
+    {
+      "word": "упадок",
+      "def": "decline",
+      "ex": "",
+      "gt": "decline"
+    },
+    {
+      "word": "груда",
+      "def": "heap, pile",
+      "ex": "",
+      "gt": "pile"
+    },
+    {
+      "word": "подружка",
+      "def": "(female) friend (dim)",
+      "ex": "g pl подружек",
+      "gt": "girlfriend"
+    },
+    {
+      "word": "прогулка",
+      "def": "walk; outing",
+      "ex": "g pl прогулок",
+      "gt": "walk"
+    },
+    {
+      "word": "уклад",
+      "def": "organization, structure (of life, society)",
+      "ex": "",
+      "gt": "way of life"
+    },
+    {
+      "word": "укол",
+      "def": "jab, injection",
+      "ex": "",
+      "gt": "injection"
+    },
+    {
+      "word": "кукушка",
+      "def": "cuckoo",
+      "ex": "g pl кукушек",
+      "gt": "cuckoo"
+    },
+    {
+      "word": "покрышка",
+      "def": "covering; (coll) lid",
+      "ex": "g pl покрышек",
+      "gt": "tire"
+    },
+    {
+      "word": "округ",
+      "def": "okrug, region",
+      "ex": "nom pl округа",
+      "gt": "district"
+    },
+    {
+      "word": "окурок",
+      "def": "cigarette end",
+      "ex": "",
+      "gt": "cigarette butt"
+    },
+    {
+      "word": "жук",
+      "def": "beetle",
+      "ex": "g sg жука",
+      "gt": "bug"
+    },
+    {
+      "word": "крошка",
+      "def": "crumb",
+      "ex": "g pl крошек",
+      "gt": "chit"
+    },
+    {
+      "word": "подолгу",
+      "def": "for a long time",
+      "ex": "",
+      "gt": "for a long time"
+    },
+    {
+      "word": "гулко",
+      "def": "resonantly; with an echoing sound",
+      "ex": "",
+      "gt": "booming"
+    },
+    {
+      "word": "шарф",
+      "def": "scarf",
+      "ex": "",
+      "gt": "scarf"
+    },
+    {
+      "word": "плуг",
+      "def": "plough",
+      "ex": "nom pl плуги",
+      "gt": "plow"
+    },
+    {
+      "word": "руда",
+      "def": "ore",
+      "ex": "nom pl руды",
+      "gt": "ore"
+    },
+    {
+      "word": "покуда",
+      "def": "while (coll) (= пока)",
+      "ex": "= пока",
+      "gt": "as long as"
+    },
+    {
+      "word": "крупа",
+      "def": "groats (grain)",
+      "ex": "",
+      "gt": "cereal"
+    },
+    {
+      "word": "пурга",
+      "def": "blizzard",
+      "ex": "no pl",
+      "gt": "blizzard"
+    },
+    {
+      "word": "шпага",
+      "def": "sword",
+      "ex": "",
+      "gt": "sword"
+    },
+    {
+      "word": "шоры",
+      "def": "blinkers",
+      "ex": "g pl шор",
+      "gt": "blinders"
+    },
+    {
+      "word": "кура",
+      "def": "hen (coll) (=курица)",
+      "ex": "=курица",
+      "gt": "chicken"
+    },
+    {
+      "word": "шов",
+      "def": "seam",
+      "ex": "",
+      "gt": "seam"
+    },
+    {
+      "word": "лупа",
+      "def": "magnifying glass",
+      "ex": "",
+      "gt": "magnifying glass"
+    },
+    {
+      "word": "уговор",
+      "def": "agreement; persuasion",
+      "ex": "",
+      "gt": "agreement"
+    },
+    {
+      "word": "укор",
+      "def": "reproach",
+      "ex": "",
+      "gt": "reproach"
+    },
+    {
+      "word": "шалаш",
+      "def": "cabin (made of branches)",
+      "ex": "g sg шалаша",
+      "gt": "hut"
+    },
+    {
+      "word": "горлышко",
+      "def": "neck (of bottle); small throat",
+      "ex": "g pl горлышек",
+      "gt": "neck"
+    },
+    {
+      "word": "дуга",
+      "def": "arc, curve",
+      "ex": "nom pl дуги",
+      "gt": "arc"
+    },
+    {
+      "word": "дудка",
+      "def": "pipe, fife",
+      "ex": "g pl дудок; (coll) Дудки! Not likely! No way!",
+      "gt": "pipe"
+    },
+    {
+      "word": "управа",
+      "def": "(coll) control, means of control; (hist) management, administration, justice",
+      "ex": "",
+      "gt": "government"
+    },
+    {
+      "word": "шпора",
+      "def": "spur",
+      "ex": "",
+      "gt": "spur"
+    },
+    {
+      "word": "акула",
+      "def": "shark",
+      "ex": "",
+      "gt": "shark"
+    },
+    {
+      "word": "вышка",
+      "def": "tower; turret",
+      "ex": "g pl вышек",
+      "gt": "tower"
+    },
+    {
+      "word": "подошва",
+      "def": "sole (of shoe, foot)",
+      "ex": "",
+      "gt": "sole"
+    },
+    {
+      "word": "пруд",
+      "def": "pond",
+      "ex": "g sg пруда, pr sg в пруду",
+      "gt": "pond"
+    },
+    {
+      "word": "урод",
+      "def": "freak, monster",
+      "ex": "",
+      "gt": "freak"
+    }
+  ]
+}

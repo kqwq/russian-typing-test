@@ -1,0 +1,48 @@
+{
+  "title": "Lesson 9: ЦЩ",
+  "alphabet": "цщ",
+  "words": [
+    {
+      "word": "площадка",
+      "def": "ground, area",
+      "ex": "g pl площадок; датская площадка children’s playground",
+      "gt": "playground"
+    },
+    {
+      "word": "роща",
+      "def": "small wood, copse",
+      "ex": "",
+      "gt": "grove"
+    },
+    {
+      "word": "овца",
+      "def": "sheep",
+      "ex": "nom pl овцы, g pl овец, d pl овцам",
+      "gt": "sheep"
+    },
+    {
+      "word": "пощада",
+      "def": "mercy",
+      "ex": "",
+      "gt": "mercy"
+    },
+    {
+      "word": "плащ",
+      "def": "raincoat; cloak",
+      "ex": "g sg плаща",
+      "gt": "cloak"
+    },
+    {
+      "word": "гуща",
+      "def": "dregs; thicket",
+      "ex": "",
+      "gt": "thicket"
+    },
+    {
+      "word": "щука",
+      "def": "pike (fish)",
+      "ex": "",
+      "gt": "pike"
+    }
+  ]
+}
