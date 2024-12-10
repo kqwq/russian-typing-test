@@ -1,0 +1,25 @@
+{
+	"title": "Level 2: ВЛ",
+	"alphabet": "вл",
+	"words": [
+		{
+			"word": "во",
+			"def": "(+pr) in; (+a) into, to",
+			"ex": "в Москве; в Москву|in Moscow; to Moscow",
+			"gt": "in"
+		},
+		{
+			"word": "вал",
+			"def": "billow; rampart; gross output (econ)",
+			"ex": "nom pl валы",
+			"gt": "shaft"
+		},
+		{
+			"word": "вол",
+			"def": "ox",
+			"ex": "g sg вола",
+			"gt": "ox"
+		}
+	],
+	"typeLen": 100
+}

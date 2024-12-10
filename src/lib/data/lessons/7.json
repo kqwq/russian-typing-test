@@ -1,0 +1,618 @@
+{
+	"title": "Level 7: КГ",
+	"alphabet": "кг",
+	"words": [
+		{
+			"word": "как",
+			"def": "how, as, like",
+			"ex": "Как он говорит? как я, как ты|How does he speak? like me, like you",
+			"gt": "How"
+		},
+		{
+			"word": "ко",
+			"def": "towards, to",
+			"ex": "к дому; ко мне|towards the house; towards me",
+			"gt": "co"
+		},
+		{
+			"word": "когда",
+			"def": "when",
+			"ex": "Когда вы были в Москве?|When were you in Moscow?",
+			"gt": "When"
+		},
+		{
+			"word": "год",
+			"def": "year",
+			"ex": "в этом году|this year",
+			"gt": "year"
+		},
+		{
+			"word": "город",
+			"def": "town, city",
+			"ex": "Они работают в этом городе|They work in this town",
+			"gt": "city"
+		},
+		{
+			"word": "голова",
+			"def": "head",
+			"ex": "над вашей головой|above your head",
+			"gt": "head"
+		},
+		{
+			"word": "дорога",
+			"def": "road",
+			"ex": "по дороге домой|on the road (way) home",
+			"gt": "road"
+		},
+		{
+			"word": "пока",
+			"def": "while",
+			"ex": "пока он здесь|while he is here",
+			"gt": "Bye"
+		},
+		{
+			"word": "долго",
+			"def": "for a long time",
+			"ex": "Она сидела долго|She sat for a long time",
+			"gt": "for a long time"
+		},
+		{
+			"word": "около",
+			"def": "near; about",
+			"ex": "около дома; около тысячи рублей|near the house; about 1,000 roubles",
+			"gt": "near"
+		},
+		{
+			"word": "доклад",
+			"def": "report",
+			"ex": "сделать доклад|to make a report",
+			"gt": "report"
+		},
+		{
+			"word": "гора",
+			"def": "mountain, hill",
+			"ex": "a sg гору, g sg горы, nom pl горы, g pl гор, d pl горам; в гору uphill",
+			"gt": "mountain"
+		},
+		{
+			"word": "враг",
+			"def": "enemy",
+			"ex": "g sg врага",
+			"gt": "enemy"
+		},
+		{
+			"word": "глава",
+			"def": "head, chief; chapter",
+			"ex": "nom pl главы",
+			"gt": "chapter"
+		},
+		{
+			"word": "лодка",
+			"def": "boat, rowing boat",
+			"ex": "g pl лодок",
+			"gt": "boat"
+		},
+		{
+			"word": "жалко",
+			"def": "pitifully; it’s a pity; (+g) be sorry for",
+			"ex": "Мне его жалко I’m sorry for him",
+			"gt": "it's a pity"
+		},
+		{
+			"word": "полк",
+			"def": "regiment",
+			"ex": "g sg полка, pr sg в полку",
+			"gt": "regiment"
+		},
+		{
+			"word": "долг",
+			"def": "debt; (sg only) duty",
+			"ex": "pr sg в долгу, nom pl долги",
+			"gt": "duty"
+		},
+		{
+			"word": "договор",
+			"def": "agreement; treaty; contract",
+			"ex": "",
+			"gt": "agreement"
+		},
+		{
+			"word": "водка",
+			"def": "vodka",
+			"ex": "",
+			"gt": "vodka"
+		},
+		{
+			"word": "погода",
+			"def": "weather",
+			"ex": "",
+			"gt": "weather"
+		},
+		{
+			"word": "порог",
+			"def": "threshold",
+			"ex": "",
+			"gt": "threshold"
+		},
+		{
+			"word": "корова",
+			"def": "cow",
+			"ex": "",
+			"gt": "cow"
+		},
+		{
+			"word": "крыло",
+			"def": "wing",
+			"ex": "nom pl крылья, g pl крыльев",
+			"gt": "wing"
+		},
+		{
+			"word": "кожа",
+			"def": "skin; leather",
+			"ex": "",
+			"gt": "leather"
+		},
+		{
+			"word": "подарок",
+			"def": "present, gift",
+			"ex": "",
+			"gt": "present"
+		},
+		{
+			"word": "флаг",
+			"def": "flag",
+			"ex": "",
+			"gt": "flag"
+		},
+		{
+			"word": "ага",
+			"def": "ah (yes), aha",
+			"ex": "",
+			"gt": "yeah"
+		},
+		{
+			"word": "дорожка",
+			"def": "path; track",
+			"ex": "g pl дорожек",
+			"gt": "track"
+		},
+		{
+			"word": "ка",
+			"def": "torment",
+			"ex": "",
+			"gt": "ka"
+		},
+		{
+			"word": "голод",
+			"def": "hunger",
+			"ex": "",
+			"gt": "hunger"
+		},
+		{
+			"word": "парк",
+			"def": "park; depot",
+			"ex": "",
+			"gt": "park"
+		},
+		{
+			"word": "колокол",
+			"def": "bell",
+			"ex": "nom pl колокола",
+			"gt": "bell"
+		},
+		{
+			"word": "горло",
+			"def": "throat",
+			"ex": "",
+			"gt": "throat"
+		},
+		{
+			"word": "палка",
+			"def": "stick",
+			"ex": "g pl палок",
+			"gt": "stick"
+		},
+		{
+			"word": "полка",
+			"def": "shelf",
+			"ex": "g pl полок",
+			"gt": "shelf"
+		},
+		{
+			"word": "кора",
+			"def": "bark, rind, crust",
+			"ex": "no pl",
+			"gt": "bark"
+		},
+		{
+			"word": "лавка",
+			"def": "bench; small shop",
+			"ex": "g pl лавок",
+			"gt": "shop"
+		},
+		{
+			"word": "ложка",
+			"def": "spoon",
+			"ex": "g pl ложек",
+			"gt": "spoon"
+		},
+		{
+			"word": "папка",
+			"def": "file, folder",
+			"ex": "g pl папок",
+			"gt": "folder"
+		},
+		{
+			"word": "каков",
+			"def": "what, what kind of",
+			"ex": "f какова, n каково, pl каковы; Каков он? What’s he like?",
+			"gt": "what"
+		},
+		{
+			"word": "волк",
+			"def": "wolf",
+			"ex": "nom pl волки, g pl волков",
+			"gt": "wolf"
+		},
+		{
+			"word": "драка",
+			"def": "fight, brawl",
+			"ex": "",
+			"gt": "fight"
+		},
+		{
+			"word": "огород",
+			"def": "kitchen-garden (for vegetables)",
+			"ex": "",
+			"gt": "garden"
+		},
+		{
+			"word": "ловко",
+			"def": "skilfully, deftly",
+			"ex": "",
+			"gt": "deftly"
+		},
+		{
+			"word": "вклад",
+			"def": "contribution",
+			"ex": "",
+			"gt": "contribution"
+		},
+		{
+			"word": "жарко",
+			"def": "hotly; it’s hot",
+			"ex": "",
+			"gt": "hot"
+		},
+		{
+			"word": "кадр",
+			"def": "frame; cadre",
+			"ex": "",
+			"gt": "frame"
+		},
+		{
+			"word": "кадры",
+			"def": "staff, personnel",
+			"ex": "m pl",
+			"gt": "personnel"
+		},
+		{
+			"word": "полгода",
+			"def": "half a year",
+			"ex": "g полугода",
+			"gt": "six months"
+		},
+		{
+			"word": "орга",
+			"def": "organ (musical instrument)",
+			"ex": "",
+			"gt": "org"
+		},
+		{
+			"word": "выгода",
+			"def": "advantage",
+			"ex": "",
+			"gt": "benefit"
+		},
+		{
+			"word": "городок",
+			"def": "small town",
+			"ex": "",
+			"gt": "town"
+		},
+		{
+			"word": "дорого",
+			"def": "dearly",
+			"ex": "",
+			"gt": "expensive"
+		},
+		{
+			"word": "ого",
+			"def": "oho!",
+			"ex": "",
+			"gt": "Wow"
+		},
+		{
+			"word": "проволока",
+			"def": "wire",
+			"ex": "колючая проволока barbed wire",
+			"gt": "wire"
+		},
+		{
+			"word": "головка",
+			"def": "small head",
+			"ex": "g пл головок",
+			"gt": "head"
+		},
+		{
+			"word": "окоп",
+			"def": "trench",
+			"ex": "",
+			"gt": "trench"
+		},
+		{
+			"word": "овраг",
+			"def": "ravine, gully",
+			"ex": "",
+			"gt": "ravine"
+		},
+		{
+			"word": "покров",
+			"def": "cover, shroud",
+			"ex": "снежный покров blanket of snow",
+			"gt": "cover"
+		},
+		{
+			"word": "догадка",
+			"def": "guess, conjecture",
+			"ex": "g pl догадок",
+			"gt": "guess"
+		},
+		{
+			"word": "клад",
+			"def": "treasure",
+			"ex": "",
+			"gt": "treasure"
+		},
+		{
+			"word": "корка",
+			"def": "crust; rind",
+			"ex": "g pl корок",
+			"gt": "crust"
+		},
+		{
+			"word": "пок",
+			"def": "cotton",
+			"ex": "хло́п(о)к",
+			"gt": "pok"
+		},
+		{
+			"word": "горка",
+			"def": "hillock",
+			"ex": "g pl горок",
+			"gt": "slide"
+		},
+		{
+			"word": "ограда",
+			"def": "fence",
+			"ex": "",
+			"gt": "fence"
+		},
+		{
+			"word": "прыжок",
+			"def": "jump",
+			"ex": "",
+			"gt": "bounce"
+		},
+		{
+			"word": "гад",
+			"def": "swine, rat (of person) (coll)",
+			"ex": "",
+			"gt": "bastard"
+		},
+		{
+			"word": "порок",
+			"def": "vice; defect",
+			"ex": "",
+			"gt": "vice"
+		},
+		{
+			"word": "граф",
+			"def": "count (title)",
+			"ex": "",
+			"gt": "graph"
+		},
+		{
+			"word": "поправка",
+			"def": "correction",
+			"ex": "g pl поправок",
+			"gt": "amendment"
+		},
+		{
+			"word": "пророк",
+			"def": "prophet",
+			"ex": "",
+			"gt": "prophet"
+		},
+		{
+			"word": "влага",
+			"def": "damp, moisture",
+			"ex": "",
+			"gt": "moisture"
+		},
+		{
+			"word": "око",
+			"def": "eye (bookish, poetic)",
+			"ex": "nom pl очи, g pl очей",
+			"gt": "eye"
+		},
+		{
+			"word": "владыка",
+			"def": "master, ruler",
+			"ex": "",
+			"gt": "lord"
+		},
+		{
+			"word": "поговорка",
+			"def": "saying, proverbial phrase",
+			"ex": "g pl поговорок",
+			"gt": "saying"
+		},
+		{
+			"word": "рог",
+			"def": "horn",
+			"ex": "nom pl рога",
+			"gt": "horn"
+		},
+		{
+			"word": "выговор",
+			"def": "reprimand; pronunciation",
+			"ex": "",
+			"gt": "rebuke"
+		},
+		{
+			"word": "гордо",
+			"def": "proudly",
+			"ex": "",
+			"gt": "proudly"
+		},
+		{
+			"word": "кол",
+			"def": "stake (wood)",
+			"ex": "nom pl колья, g pl кольев",
+			"gt": "count"
+		},
+		{
+			"word": "гараж",
+			"def": "garage",
+			"ex": "g sg гаража",
+			"gt": "garage"
+		},
+		{
+			"word": "клоп",
+			"def": "bedbug",
+			"ex": "g sg клопа",
+			"gt": "bug"
+		},
+		{
+			"word": "рывок",
+			"def": "jerk; spurt",
+			"ex": "",
+			"gt": "jerk"
+		},
+		{
+			"word": "гладко",
+			"def": "smoothly",
+			"ex": "",
+			"gt": "smooth"
+		},
+		{
+			"word": "кара",
+			"def": "punishment",
+			"ex": "",
+			"gt": "punishment"
+		},
+		{
+			"word": "клок",
+			"def": "rag, shred, tuft",
+			"ex": "g sg клока, nom pl клочья, g pl клочьев or клоки, клоков",
+			"gt": "shred"
+		},
+		{
+			"word": "арка",
+			"def": "arch",
+			"ex": "g pl арок",
+			"gt": "arch"
+		},
+		{
+			"word": "колпак",
+			"def": "cap",
+			"ex": "g sg колпака; ночной колпак nightcap",
+			"gt": "cap"
+		},
+		{
+			"word": "оговорка",
+			"def": "reservation, proviso; slip of the tongue",
+			"ex": "g pl оговорок; согласиться с оговорками to agree with reservations",
+			"gt": "reservation"
+		},
+		{
+			"word": "дырка",
+			"def": "small hole",
+			"ex": "g pl дырок",
+			"gt": "hole"
+		},
+		{
+			"word": "окорок",
+			"def": "ham, gammon",
+			"ex": "nom pl окорока",
+			"gt": "ham"
+		},
+		{
+			"word": "гол",
+			"def": "goal (sport)",
+			"ex": "nom pl голы, g pl голов",
+			"gt": "Goal"
+		},
+		{
+			"word": "оковы",
+			"def": "fetters",
+			"ex": "g pl оков",
+			"gt": "fetter"
+		},
+		{
+			"word": "покрывало",
+			"def": "cover; bedspread",
+			"ex": "",
+			"gt": "cover"
+		},
+		{
+			"word": "аккорд",
+			"def": "chord",
+			"ex": "",
+			"gt": "chord"
+		},
+		{
+			"word": "вожак",
+			"def": "guide, leader",
+			"ex": "вожака",
+			"gt": "leader"
+		},
+		{
+			"word": "кладка",
+			"def": "laying",
+			"ex": "кирпичная кладка bricklaying",
+			"gt": "masonry"
+		},
+		{
+			"word": "повадка",
+			"def": "habit, (habitual) behaviour (coll)",
+			"ex": "g pl повадок",
+			"gt": "habit"
+		},
+		{
+			"word": "рогожа",
+			"def": "matting",
+			"ex": "",
+			"gt": "mat"
+		},
+		{
+			"word": "рожок",
+			"def": "small horn; horn (instrument)",
+			"ex": "",
+			"gt": "horn"
+		},
+		{
+			"word": "град",
+			"def": "hail; (poet) city",
+			"ex": "",
+			"gt": "hail"
+		},
+		{
+			"word": "лак",
+			"def": "varnish",
+			"ex": "",
+			"gt": "varnish"
+		}
+	]
+}

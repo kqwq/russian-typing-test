@@ -10,9 +10,9 @@
 		<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
 			<a href="/about">About</a>
 		</li>
-		<li aria-current={$page.url.pathname.startsWith('/random') ? 'page' : undefined}>
+		<!-- <li aria-current={$page.url.pathname.startsWith('/random') ? 'page' : undefined}>
 			<a href="/random">Random</a>
-		</li>
+		</li> -->
 	</ol>
 </header>
 

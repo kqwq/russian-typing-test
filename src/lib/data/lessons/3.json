@@ -1,0 +1,72 @@
+{
+	"title": "Level 3: ЫД",
+	"alphabet": "ыд",
+	"words": [
+		{
+			"word": "вы",
+			"def": "you (polite/pl)",
+			"ex": "Вы говорите|You are speaking",
+			"gt": "You"
+		},
+		{
+			"word": "да",
+			"def": "yes; and, but",
+			"ex": "Да, это правда; он да я|Yes, that’s true; he and I",
+			"gt": "Yes"
+		},
+		{
+			"word": "два",
+			"def": "two",
+			"ex": "два часа; две машины|two o’clock; two cars",
+			"gt": "two"
+		},
+		{
+			"word": "до",
+			"def": "up to; until",
+			"ex": "До свидания!|Until we meet again=Goodbye",
+			"gt": "to"
+		},
+		{
+			"word": "вода",
+			"def": "water",
+			"ex": "водка с водой; пить воду|vodka with water; to drink water",
+			"gt": "water"
+		},
+		{
+			"word": "вывод",
+			"def": "conclusion, deduction",
+			"ex": "сделать вывод to draw a conclusion",
+			"gt": "conclusion"
+		},
+		{
+			"word": "довод",
+			"def": "argument (for sth)",
+			"ex": "",
+			"gt": "argument"
+		},
+		{
+			"word": "вдова",
+			"def": "widow",
+			"ex": "nom pl вдовы",
+			"gt": "widow"
+		},
+		{
+			"word": "лад",
+			"def": "harmony, tune; manner",
+			"ex": "pr sg в ладу́, nom pl лады́; петь в лад to sing in tune; на свой лад in one’s own way",
+			"gt": "okay"
+		},
+		{
+			"word": "ввод",
+			"def": "bringing in",
+			"ex": "",
+			"gt": "input"
+		},
+		{
+			"word": "ад",
+			"def": "hell",
+			"ex": "pr sg в аду",
+			"gt": "hell"
+		}
+	]
+}

@@ -1,0 +1,714 @@
+{
+	"title": "Level 10: ЙЗ",
+	"alphabet": "йз",
+	"words": [
+		{
+			"word": "за",
+			"def": "(+a) for; (+inst) behind",
+			"ex": "платить за водку за домом|to pay for the vodka; behind the house",
+			"gt": "for"
+		},
+		{
+			"word": "какой",
+			"def": "what (kind of)",
+			"ex": "Какой у Ивана дом?|What kind of house has Ivan got?",
+			"gt": "Which"
+		},
+		{
+			"word": "другой",
+			"def": "different, other",
+			"ex": "в другом доме|in a different (another) house",
+			"gt": "another"
+		},
+		{
+			"word": "каждый",
+			"def": "each, every",
+			"ex": "каждый день|each (every) day",
+			"gt": "every"
+		},
+		{
+			"word": "раз",
+			"def": "once; a time",
+			"ex": "один раз; два раза; шесть раз|once; twice; six times",
+			"gt": "once"
+		},
+		{
+			"word": "глаз",
+			"def": "eye",
+			"ex": "два глаза; большие глаза|two eyes; large eyes",
+			"gt": "eye"
+		},
+		{
+			"word": "разговор",
+			"def": "conversation",
+			"ex": "разговор о погоде|conversation about the weather",
+			"gt": "talk"
+		},
+		{
+			"word": "прошлый",
+			"def": "past",
+			"ex": "в прошлом году|last year",
+			"gt": "last"
+		},
+		{
+			"word": "дорогой",
+			"def": "dear, expensive",
+			"ex": "дорогие книги|expensive books",
+			"gt": "Expensive"
+		},
+		{
+			"word": "зал",
+			"def": "hall",
+			"ex": "читальный зал|reading room",
+			"gt": "hall"
+		},
+		{
+			"word": "завод",
+			"def": "factory",
+			"ex": "Он работает на заводе |Не works in a factory",
+			"gt": "factory"
+		},
+		{
+			"word": "пауза",
+			"def": "pause",
+			"ex": "сделать паузу|to pause",
+			"gt": "pause"
+		},
+		{
+			"word": "правый",
+			"def": "right; right-wing",
+			"ex": "прав -а -о -ы (short forms) Она права She’s right",
+			"gt": "right"
+		},
+		{
+			"word": "край",
+			"def": "edge; region, area",
+			"ex": "pr sg в краю, nom pl края, g pl краёв",
+			"gt": "edge"
+		},
+		{
+			"word": "пожалуй",
+			"def": "very probably",
+			"ex": "",
+			"gt": "perhaps"
+		},
+		{
+			"word": "газ",
+			"def": "gas",
+			"ex": "",
+			"gt": "gas"
+		},
+		{
+			"word": "гораздо",
+			"def": "much (with comparatives)",
+			"ex": "гораздо лучше much better",
+			"gt": "much"
+		},
+		{
+			"word": "давай",
+			"def": "let’s (do sth)",
+			"ex": "(+1st person pl р or i inf) Давайте выпьем Let’s have a drink",
+			"gt": "Let's"
+		},
+		{
+			"word": "взрыв",
+			"def": "explosion",
+			"ex": "произвести взрыв to cause an explosion",
+			"gt": "explosion"
+		},
+		{
+			"word": "глупый",
+			"def": "stupid, silly",
+			"ex": "",
+			"gt": "silly"
+		},
+		{
+			"word": "ой",
+			"def": "o; oh (expressing surprise or fright)",
+			"ex": "",
+			"gt": "Ouch"
+		},
+		{
+			"word": "угроза",
+			"def": "threat",
+			"ex": "",
+			"gt": "threat"
+		},
+		{
+			"word": "груз",
+			"def": "load; cargo",
+			"ex": "",
+			"gt": "cargo"
+		},
+		{
+			"word": "здоровый",
+			"def": "healthy",
+			"ex": "",
+			"gt": "healthy"
+		},
+		{
+			"word": "круглый",
+			"def": "round",
+			"ex": "",
+			"gt": "round"
+		},
+		{
+			"word": "злой",
+			"def": "evil, wicked; bad-tempered, fierce",
+			"ex": "short forms зол m, зла f",
+			"gt": "wicked"
+		},
+		{
+			"word": "звук",
+			"def": "sound",
+			"ex": "",
+			"gt": "sound"
+		},
+		{
+			"word": "зло",
+			"def": "evil",
+			"ex": "no pl except in меньшее из двух зол lesser of two evils",
+			"gt": "evil"
+		},
+		{
+			"word": "фраза",
+			"def": "phrase",
+			"ex": "",
+			"gt": "phrase"
+		},
+		{
+			"word": "голый",
+			"def": "naked",
+			"ex": "",
+			"gt": "naked"
+		},
+		{
+			"word": "покой",
+			"def": "peace, quiet",
+			"ex": "",
+			"gt": "peace"
+		},
+		{
+			"word": "здорово",
+			"def": "(coll) splendid(ly), great healthily; (coll) hi!",
+			"ex": "",
+			"gt": "Great"
+		},
+		{
+			"word": "урожай",
+			"def": "harvest",
+			"ex": "",
+			"gt": "harvest"
+		},
+		{
+			"word": "вз",
+			"def": "to worry",
+			"ex": "i: волнуюсь, волнуешься; Не волнуйтесь Don’t worry; p: вз-/за-",
+			"gt": "vz"
+		},
+		{
+			"word": "запад",
+			"def": "west",
+			"ex": "на западе in the west",
+			"gt": "west"
+		},
+		{
+			"word": "заказ",
+			"def": "order (for sth)",
+			"ex": "",
+			"gt": "order"
+		},
+		{
+			"word": "кой",
+			"def": "which (coll)",
+			"ex": "ни в коем случае certainly not",
+			"gt": "whoa"
+		},
+		{
+			"word": "вокзал",
+			"def": "(main) station",
+			"ex": "на вокзале at the station",
+			"gt": "railway station"
+		},
+		{
+			"word": "взор",
+			"def": "look, glance",
+			"ex": "",
+			"gt": "look"
+		},
+		{
+			"word": "роза",
+			"def": "rose",
+			"ex": "",
+			"gt": "rose"
+		},
+		{
+			"word": "койка",
+			"def": "bunk, berth",
+			"ex": "g pl коек",
+			"gt": "bunk"
+		},
+		{
+			"word": "розовый",
+			"def": "pink; rosy",
+			"ex": "",
+			"gt": "pink"
+		},
+		{
+			"word": "разрыв",
+			"def": "break, gap; shell-burst",
+			"ex": "",
+			"gt": "gap"
+		},
+		{
+			"word": "гордый",
+			"def": "proud",
+			"ex": "",
+			"gt": "proud"
+		},
+		{
+			"word": "эй",
+			"def": "hey! (attracting attention)",
+			"ex": "",
+			"gt": "Hey"
+		},
+		{
+			"word": "ай",
+			"def": "oh! (expressing fear, surprise)",
+			"ex": "",
+			"gt": "ah"
+		},
+		{
+			"word": "гроза",
+			"def": "thunderstorm",
+			"ex": "nom pl грозы",
+			"gt": "storm"
+		},
+		{
+			"word": "воз",
+			"def": "to hate",
+			"ex": "i ненавижу, ненавидишь",
+			"gt": "WHO"
+		},
+		{
+			"word": "порой",
+			"def": "at times, occasionally",
+			"ex": "",
+			"gt": "sometimes"
+		},
+		{
+			"word": "вызов",
+			"def": "summons; challenge",
+			"ex": "",
+			"gt": "call"
+		},
+		{
+			"word": "годовой",
+			"def": "yearly",
+			"ex": "",
+			"gt": "annual"
+		},
+		{
+			"word": "каковой",
+			"def": "which (official style)",
+			"ex": "= который/какой",
+			"gt": "which"
+		},
+		{
+			"word": "кровавый",
+			"def": "bloody",
+			"ex": "",
+			"gt": "bloody"
+		},
+		{
+			"word": "казак",
+			"def": "Cossack",
+			"ex": "g sg казака́, nom pl казаки́ (but Tolstoi’s «Каза́ки»)",
+			"gt": "Cossack"
+		},
+		{
+			"word": "загадка",
+			"def": "mystery; riddle",
+			"ex": "g pl загадок",
+			"gt": "mystery"
+		},
+		{
+			"word": "газовый",
+			"def": "gas (adj)",
+			"ex": "газовая плита gas stove",
+			"gt": "gas"
+		},
+		{
+			"word": "глазок",
+			"def": "small eye; peephole",
+			"ex": "",
+			"gt": "peephole"
+		},
+		{
+			"word": "рай",
+			"def": "paradise",
+			"ex": "pr sg в раю",
+			"gt": "paradise"
+		},
+		{
+			"word": "узор",
+			"def": "pattern",
+			"ex": "",
+			"gt": "pattern"
+		},
+		{
+			"word": "паровоз",
+			"def": "locomotive, steam engine",
+			"ex": "",
+			"gt": "locomotive"
+		},
+		{
+			"word": "ваза",
+			"def": "vase",
+			"ex": "",
+			"gt": "vase"
+		},
+		{
+			"word": "зародыш",
+			"def": "foetus; embryo",
+			"ex": "",
+			"gt": "embryo"
+		},
+		{
+			"word": "заговор",
+			"def": "plot",
+			"ex": "",
+			"gt": "CONSPIRACY"
+		},
+		{
+			"word": "позор",
+			"def": "disgrace",
+			"ex": "",
+			"gt": "disgrace"
+		},
+		{
+			"word": "взвод",
+			"def": "platoon",
+			"ex": "на взводе drunk; agitated",
+			"gt": "platoon"
+		},
+		{
+			"word": "подлый",
+			"def": "mean, underhand",
+			"ex": "",
+			"gt": "sneaky"
+		},
+		{
+			"word": "проза",
+			"def": "prose",
+			"ex": "",
+			"gt": "prose"
+		},
+		{
+			"word": "вздор",
+			"def": "nonsense  (coll)",
+			"ex": "",
+			"gt": "nonsense"
+		},
+		{
+			"word": "вуз",
+			"def": "university, institute (higher education establishment)",
+			"ex": "",
+			"gt": "university"
+		},
+		{
+			"word": "грузовой",
+			"def": "goods (adj)",
+			"ex": "",
+			"gt": "cargo"
+		},
+		{
+			"word": "разлука",
+			"def": "separation",
+			"ex": "",
+			"gt": "parting"
+		},
+		{
+			"word": "алый",
+			"def": "scarlet",
+			"ex": "",
+			"gt": "scarlet"
+		},
+		{
+			"word": "заголовок",
+			"def": "title, heading",
+			"ex": "",
+			"gt": "title"
+		},
+		{
+			"word": "разгар",
+			"def": "height, climax",
+			"ex": "в разгаре +g at the height of",
+			"gt": "height"
+		},
+		{
+			"word": "шайка",
+			"def": "tub; gang",
+			"ex": "g pl шаек",
+			"gt": "gang"
+		},
+		{
+			"word": "двойка",
+			"def": "the number two; fail (mark in exam)",
+			"ex": "g pl двоек",
+			"gt": "deuce"
+		},
+		{
+			"word": "лукавый",
+			"def": "sly",
+			"ex": "",
+			"gt": "sly"
+		},
+		{
+			"word": "поза",
+			"def": "pose",
+			"ex": "",
+			"gt": "pose"
+		},
+		{
+			"word": "долой",
+			"def": "down with",
+			"ex": "",
+			"gt": "Down with"
+		},
+		{
+			"word": "указ",
+			"def": "decree",
+			"ex": "",
+			"gt": "decree"
+		},
+		{
+			"word": "враз",
+			"def": "all together (coll)",
+			"ex": "",
+			"gt": "at once"
+		},
+		{
+			"word": "закупка",
+			"def": "purchase",
+			"ex": "",
+			"gt": "purchase"
+		},
+		{
+			"word": "звуковой",
+			"def": "sound (adj)",
+			"ex": "",
+			"gt": "sound"
+		},
+		{
+			"word": "вой",
+			"def": "howl; wailing",
+			"ex": "",
+			"gt": "howl"
+		},
+		{
+			"word": "запоздалый",
+			"def": "belated",
+			"ex": "",
+			"gt": "belated"
+		},
+		{
+			"word": "паровой",
+			"def": "steam (adj)",
+			"ex": "",
+			"gt": "steam"
+		},
+		{
+			"word": "украдкой",
+			"def": "stealthily",
+			"ex": "",
+			"gt": "furtively"
+		},
+		{
+			"word": "фаза",
+			"def": "phase",
+			"ex": "",
+			"gt": "phase"
+		},
+		{
+			"word": "коза",
+			"def": "goat",
+			"ex": "nom pl козы",
+			"gt": "goat"
+		},
+		{
+			"word": "кузов",
+			"def": "body (of vehicle); basket",
+			"ex": "nom pl кузова",
+			"gt": "body"
+		},
+		{
+			"word": "ржавый",
+			"def": "rusty",
+			"ex": "",
+			"gt": "rusty"
+		},
+		{
+			"word": "розыгрыш",
+			"def": "(lottery) draw; practical joke",
+			"ex": "",
+			"gt": "draw"
+		},
+		{
+			"word": "роковой",
+			"def": "fateful",
+			"ex": "",
+			"gt": "fatal"
+		},
+		{
+			"word": "выпуклый",
+			"def": "prominent, bulging; convex",
+			"ex": "",
+			"gt": "convex"
+		},
+		{
+			"word": "загар",
+			"def": "suntan",
+			"ex": "",
+			"gt": "tan"
+		},
+		{
+			"word": "загрузка",
+			"def": "loading",
+			"ex": "",
+			"gt": "loading"
+		},
+		{
+			"word": "зараза",
+			"def": "infection; (coll) pest",
+			"ex": "",
+			"gt": "infection"
+		},
+		{
+			"word": "зорко",
+			"def": "sharp-sightedly, vigilantly",
+			"ex": "",
+			"gt": "vigilantly"
+		},
+		{
+			"word": "зола",
+			"def": "ashes, cinders",
+			"ex": "no pl",
+			"gt": "ash"
+		},
+		{
+			"word": "кукуруза",
+			"def": "maize",
+			"ex": "",
+			"gt": "corn"
+		},
+		{
+			"word": "валовой",
+			"def": "gross (adj)",
+			"ex": "валовой доход gross income; валовой национальный продукт gross national product",
+			"gt": "gross"
+		},
+		{
+			"word": "закалка",
+			"def": "physical training, fitness",
+			"ex": "",
+			"gt": "hardening"
+		},
+		{
+			"word": "родовой",
+			"def": "ancestral; generic; birth (adj)",
+			"ex": "",
+			"gt": "generic"
+		},
+		{
+			"word": "полковой",
+			"def": "regimental",
+			"ex": "",
+			"gt": "regimental"
+		},
+		{
+			"word": "кругозор",
+			"def": "horizon, outlook",
+			"ex": "",
+			"gt": "horizon"
+		},
+		{
+			"word": "погрузка",
+			"def": "loading",
+			"ex": "",
+			"gt": "loading"
+		},
+		{
+			"word": "полый",
+			"def": "hollow",
+			"ex": "",
+			"gt": "hollow"
+		},
+		{
+			"word": "зад",
+			"def": "back, rear; rump, backside",
+			"ex": "pr sg на заду, nom pl зады",
+			"gt": "ass"
+		},
+		{
+			"word": "задолго",
+			"def": "long before",
+			"ex": "задолго до конца long before the end",
+			"gt": "long ago"
+		},
+		{
+			"word": "закладка",
+			"def": "laying; bookmark",
+			"ex": "g pl закладок",
+			"gt": "bookmark"
+		},
+		{
+			"word": "повозка",
+			"def": "cart, carriage",
+			"ex": "g pl повозок",
+			"gt": "cart"
+		},
+		{
+			"word": "задор",
+			"def": "fervour, vigour",
+			"ex": "",
+			"gt": "enthusiasm"
+		},
+		{
+			"word": "закоулок",
+			"def": "back alley; nook, cranny",
+			"ex": "",
+			"gt": "nook"
+		},
+		{
+			"word": "залог",
+			"def": "deposit, guarantee, pledge",
+			"ex": "",
+			"gt": "pledge"
+		},
+		{
+			"word": "половой",
+			"def": "sexual",
+			"ex": "",
+			"gt": "sexual"
+		},
+		{
+			"word": "пошлый",
+			"def": "vulgar; trivial, banal",
+			"ex": "",
+			"gt": "vulgar"
+		},
+		{
+			"word": "развод",
+			"def": "divorce",
+			"ex": "",
+			"gt": "divorce"
+		},
+		{
+			"word": "разлад",
+			"def": "discord; disorder",
+			"ex": "",
+			"gt": "discord"
+		}
+	]
+}

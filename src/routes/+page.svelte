@@ -11,26 +11,26 @@
 	const maxMistakes = 3;
 
 	type LessonListItem = {
-		lesson: string;
+		num: number;
 		title: string;
 		disabled?: boolean;
 	};
 	const lessonsList = [
-		{ lesson: 'lesson1', title: 'Lesson 1: АО' },
-		{ lesson: 'lesson2', title: 'Lesson 2: ВЛ' },
-		{ lesson: 'lesson3', title: 'Lesson 3: ЫД' },
-		{ lesson: 'lesson4', title: 'Lesson 4: ФЖ' },
-		{ lesson: 'lesson5', title: 'Lesson 5: ПРЭ' },
-		{ lesson: 'lesson6', title: 'Lesson 6: ФЫВАПРОЛДЖЭ' },
-		{ lesson: 'lesson7', title: 'Lesson 7: КГ' },
-		{ lesson: 'lesson8', title: 'Lesson 8: УШ' },
-		{ lesson: 'lesson9', title: 'Lesson 9: ЦЩ' },
-		{ lesson: 'lesson10', title: 'Lesson 10: ЙЗ' },
-		{ lesson: 'lesson11', title: 'Lesson 11: ЁХЪ' },
-		{ lesson: 'lesson12', title: 'Lesson 12: ЁЙЦУКЕНГШЩЗХЪ' }
+		{ num: 1, title: 'Level 1: АО' },
+		{ num: 2, title: 'Level 2: ВЛ' },
+		{ num: 3, title: 'Level 3: ЫД' },
+		{ num: 4, title: 'Level 4: ФЖ' },
+		{ num: 5, title: 'Level 5: ПРЭ' },
+		{ num: 6, title: 'Level 6: ФЫВАПРОЛДЖЭ' },
+		{ num: 7, title: 'Level 7: КГ' },
+		{ num: 8, title: 'Level 8: УШ' },
+		{ num: 9, title: 'Level 9: ЦЩ' },
+		{ num: 10, title: 'Level 10: ЙЗ' },
+		{ num: 11, title: 'Level 11: ЁХЪ' },
+		{ num: 12, title: 'Level 12: ЁЙЦУКЕНГШЩЗХЪ' }
 	];
-	let unlockedLessons = $state(['lesson1']);
-	let displayLessonsList = $derived(lessonsList.map((l: LessonListItem) => ({ ...l, disabled: !unlockedLessons.includes(l.lesson) })));
+	let unlockedLessons = $state([1]);
+	let displayLessonsList = $derived(lessonsList.map((l: LessonListItem) => ({ ...l, disabled: !unlockedLessons.includes(l.num) })));
 
 	const KeyboardOption = {
 		SHOW_WITH_HINTS: 'SHOW_WITH_HINTS',
@@ -43,7 +43,7 @@
 	let typedChars = $state('');
 	let isInputFocused = $state(true);
 	let kbOption: keyof typeof KeyboardOption = $state(KeyboardOption.SHOW_WITH_HINTS);
-	let lessonId = $state('lesson1');
+	let curLessonNum = $state(1);
 	let minutes = $state(0);
 	let seconds = $state(0);
 	let interval: NodeJS.Timeout;
@@ -111,8 +111,9 @@
 
 	async function generateLesson() {
 		failure = false;
+		mistakes = 0;
 		resetTimer();
-		curLesson = await fetch(`getLesson/${lessonId}`).then((res) => res.json());
+		curLesson = await fetch(`getLesson/${curLessonNum}`).then((res) => res.json());
 		if (!curLesson) return;
 		const cla = curLesson.alphabet.split('');
 		const typeLen = curLesson.typeLen ?? 150;
@@ -208,11 +209,8 @@
 				timestampEnded = Date.now();
 				calculateWpm();
 				if (wpm >= 30) {
-					const currentIndex = lessonsList.findIndex((l) => l.lesson === lessonId);
-					console.log('currentIndex', currentIndex);
-					if (currentIndex < lessonsList.length - 1 && !unlockedLessons.includes(lessonsList[currentIndex + 1].lesson)) {
-						console.log('unlocked', lessonsList[currentIndex + 1].lesson);
-						unlockedLessons = [...unlockedLessons, lessonsList[currentIndex + 1].lesson];
+					if (!unlockedLessons.includes(curLessonNum + 1)) {
+						unlockedLessons = [...unlockedLessons, curLessonNum + 1];
 					}
 				}
 			}
@@ -266,9 +264,9 @@
 		{/if}
 		<div id="controls">
 			<label for="lesson-option">Lesson:</label>
-			<select id="lesson-option" bind:value={lessonId} onchange={generateLesson}>
-				{#each displayLessonsList as { lesson, title, disabled }}
-					<option value={lesson} disabled={!unlockedLessons.includes(lesson)}>{!unlockedLessons.includes(lesson) ? '🔒 ' : ''}{title}</option>
+			<select id="lesson-option" bind:value={curLessonNum} onchange={generateLesson}>
+				{#each displayLessonsList as { num, title, disabled }}
+					<option value={num} disabled={!unlockedLessons.includes(num)}>{!unlockedLessons.includes(num) ? '🔒 ' : ''}{title}</option>
 				{/each}
 			</select>
 			<label for="keyboard-option">Keyboard:</label>

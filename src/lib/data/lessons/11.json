@@ -1,0 +1,408 @@
+{
+	"title": "Level 11: ЁХЪ",
+	"alphabet": "ёхъ",
+	"words": [
+		{
+			"word": "хорошо",
+			"def": "well; it is good",
+			"ex": "Очень хорошо!|Very good!",
+			"gt": "Fine"
+		},
+		{
+			"word": "воздух",
+			"def": "air",
+			"ex": "в воздухе|in the air",
+			"gt": "air"
+		},
+		{
+			"word": "колхоз",
+			"def": "collective farm",
+			"ex": "в колхозе|on a collective farm",
+			"gt": "collective farm"
+		},
+		{
+			"word": "ход",
+			"def": "movement",
+			"ex": "на полном ходу; ход событий|at full speed; course of events",
+			"gt": "move"
+		},
+		{
+			"word": "шофёр",
+			"def": "driver",
+			"ex": "шофёр такси|taxi driver",
+			"gt": "chauffeur"
+		},
+		{
+			"word": "плохо",
+			"def": "badly",
+			"ex": "Он плохо знает английский язык|He doesn’t know English well",
+			"gt": "Badly"
+		},
+		{
+			"word": "ах",
+			"def": "ah!, oh!",
+			"ex": "",
+			"gt": "Oh"
+		},
+		{
+			"word": "выход",
+			"def": "exit, way out",
+			"ex": "",
+			"gt": "exit"
+		},
+		{
+			"word": "эх",
+			"def": "eh! oh! (expressing regret, annoyance, reproach, amazement)",
+			"ex": "",
+			"gt": "eh"
+		},
+		{
+			"word": "поход",
+			"def": "campaign; walking tour, expedition; cruise",
+			"ex": "",
+			"gt": "hike"
+		},
+		{
+			"word": "дух",
+			"def": "spirit; breath",
+			"ex": "",
+			"gt": "spirit"
+		},
+		{
+			"word": "ухо",
+			"def": "ear",
+			"ex": "nom pl уши, g pl ушей",
+			"gt": "ear"
+		},
+		{
+			"word": "плохой",
+			"def": "bad",
+			"ex": "",
+			"gt": "bad"
+		},
+		{
+			"word": "эпоха",
+			"def": "epoch, age",
+			"ex": "",
+			"gt": "era"
+		},
+		{
+			"word": "пароход",
+			"def": "steamer",
+			"ex": "",
+			"gt": "steamship"
+		},
+		{
+			"word": "ох",
+			"def": "oh, ah (expressing regret, annoyance)",
+			"ex": "",
+			"gt": "Oh"
+		},
+		{
+			"word": "запах",
+			"def": "smell",
+			"ex": "",
+			"gt": "smell"
+		},
+		{
+			"word": "лёд",
+			"def": "ice",
+			"ex": "g sg льда, pr sg на льду",
+			"gt": "ice"
+		},
+		{
+			"word": "глухой",
+			"def": "deaf; indistinct, muffled; remote (of place)",
+			"ex": "",
+			"gt": "deaf"
+		},
+		{
+			"word": "подход",
+			"def": "approach",
+			"ex": "",
+			"gt": "approach"
+		},
+		{
+			"word": "доход",
+			"def": "income",
+			"ex": "",
+			"gt": "income"
+		},
+		{
+			"word": "вход",
+			"def": "entrance",
+			"ex": "",
+			"gt": "entrance"
+		},
+		{
+			"word": "холод",
+			"def": "cold",
+			"ex": "",
+			"gt": "cold"
+		},
+		{
+			"word": "худой",
+			"def": "thin; bad",
+			"ex": "на худой конец if the worst comes to the worst",
+			"gt": "thin"
+		},
+		{
+			"word": "ковёр",
+			"def": "carpet",
+			"ex": "",
+			"gt": "carpet"
+		},
+		{
+			"word": "уход",
+			"def": "departure; (за +inst) caring (for), maintenance (of)",
+			"ex": "уход за ребёнком caring for а child",
+			"gt": "care"
+		},
+		{
+			"word": "хор",
+			"def": "chorus; choir",
+			"ex": "nom pl хоры",
+			"gt": "choir"
+		},
+		{
+			"word": "вздох",
+			"def": "sigh",
+			"ex": "",
+			"gt": "sigh"
+		},
+		{
+			"word": "козёл",
+			"def": "goat",
+			"ex": "g sg козла",
+			"gt": "goat"
+		},
+		{
+			"word": "пузырёк",
+			"def": "bubble; phial",
+			"ex": "",
+			"gt": "bubble"
+		},
+		{
+			"word": "глухо",
+			"def": "indistinctly",
+			"ex": "",
+			"gt": "dull"
+		},
+		{
+			"word": "хло",
+			"def": "cotton",
+			"ex": "хло́п(о)к",
+			"gt": "chlo"
+		},
+		{
+			"word": "хлопо",
+			"def": "clap, bang",
+			"ex": "хлоп(о́)к",
+			"gt": "trouble"
+		},
+		{
+			"word": "ёлка",
+			"def": "fir tree",
+			"ex": "g pl ёлок",
+			"gt": "Christmas tree"
+		},
+		{
+			"word": "ух",
+			"def": "ooh!",
+			"ex": "",
+			"gt": "wow"
+		},
+		{
+			"word": "худо",
+			"def": "bad, badly",
+			"ex": "",
+			"gt": "bad"
+		},
+		{
+			"word": "шёлковый",
+			"def": "silk (adj)",
+			"ex": "",
+			"gt": "silk"
+		},
+		{
+			"word": "упрёк",
+			"def": "reproach",
+			"ex": "",
+			"gt": "reproach"
+		},
+		{
+			"word": "горох",
+			"def": "peas",
+			"ex": "no pl",
+			"gt": "peas"
+		},
+		{
+			"word": "рёв",
+			"def": "roar",
+			"ex": "",
+			"gt": "roar"
+		},
+		{
+			"word": "пазуха",
+			"def": "bosom",
+			"ex": "за пазухой in one’s bosom",
+			"gt": "sinus"
+		},
+		{
+			"word": "порох",
+			"def": "gunpowder",
+			"ex": "",
+			"gt": "powder"
+		},
+		{
+			"word": "прах",
+			"def": "dust",
+			"ex": "",
+			"gt": "dust"
+		},
+		{
+			"word": "выходка",
+			"def": "bad behaviour, escapade",
+			"ex": "g pl выходок",
+			"gt": "trick"
+		},
+		{
+			"word": "походка",
+			"def": "gait, walk",
+			"ex": "",
+			"gt": "gait"
+		},
+		{
+			"word": "шёлк",
+			"def": "silk",
+			"ex": "",
+			"gt": "silk"
+		},
+		{
+			"word": "заход",
+			"def": "sunset; call (at a place)",
+			"ex": "",
+			"gt": "approach"
+		},
+		{
+			"word": "орёл",
+			"def": "eagle",
+			"ex": "g sg орла",
+			"gt": "eagle"
+		},
+		{
+			"word": "похвала",
+			"def": "praise",
+			"ex": "",
+			"gt": "praise"
+		},
+		{
+			"word": "проход",
+			"def": "passage; passageway",
+			"ex": "",
+			"gt": "passage"
+		},
+		{
+			"word": "худощавый",
+			"def": "thin",
+			"ex": "",
+			"gt": "thin"
+		},
+		{
+			"word": "эхо",
+			"def": "echo",
+			"ex": "",
+			"gt": "echo"
+		},
+		{
+			"word": "паёк",
+			"def": "ration",
+			"ex": "g sg пайка",
+			"gt": "ration"
+		},
+		{
+			"word": "рыхлый",
+			"def": "friable, crumbly; (coll) podgy, flabby",
+			"ex": "",
+			"gt": "loose"
+		},
+		{
+			"word": "шорох",
+			"def": "rustle",
+			"ex": "",
+			"gt": "rustle"
+		},
+		{
+			"word": "крах",
+			"def": "crash; failure",
+			"ex": "",
+			"gt": "collapse"
+		},
+		{
+			"word": "холодок",
+			"def": "coolness; cool place (coll)",
+			"ex": "",
+			"gt": "chill"
+		},
+		{
+			"word": "кухарка",
+			"def": "cook (f)",
+			"ex": "g pl кухарок",
+			"gt": "cook"
+		},
+		{
+			"word": "козырёк",
+			"def": "peak (of cap)",
+			"ex": "g sg козырька; взять под козырёк to salute",
+			"gt": "visor"
+		},
+		{
+			"word": "ходовой",
+			"def": "(coll) popular; operational, working",
+			"ex": "ходовые мнения popular opinions",
+			"gt": "running"
+		},
+		{
+			"word": "пёрышко",
+			"def": "(little) feather (coll)",
+			"ex": "nom pl пёрышки, g pl пёрышек",
+			"gt": "feather"
+		},
+		{
+			"word": "щёлка",
+			"def": "chink",
+			"ex": "g pl щёлок",
+			"gt": "lye"
+		},
+		{
+			"word": "гололёд",
+			"def": "covering of ice; icy weather",
+			"ex": "",
+			"gt": "ice"
+		},
+		{
+			"word": "уха",
+			"def": "fish-soup",
+			"ex": "",
+			"gt": "ear"
+		},
+		{
+			"word": "ворох",
+			"def": "heap, pile",
+			"ex": "nom pl вороха; ворох сена pile of hay; ворох новостей heaps of news",
+			"gt": "heap"
+		},
+		{
+			"word": "ёж",
+			"def": "hedgehog",
+			"ex": "g sg ежа",
+			"gt": "hedgehog"
+		},
+		{
+			"word": "пух",
+			"def": "down, fluff",
+			"ex": "pr sg в пуху",
+			"gt": "fluff"
+		}
+	]
+}
